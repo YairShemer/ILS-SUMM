@@ -2,7 +2,7 @@
 
 This repo contains the python implementation of paper - "ILS-SUMM: Iterated Local Search for Unsupervised Video Summarization".
 
-![](Cosmus_Laundromat.gif)
+![](Cosmus_Laundromat.gif)  
 *A video summary ILS-SUMM generated from the [Cosmus Laundromat movie](https://www.youtube.com/watch?v=Y-rmzh0PI3c).*
 ## Get started
 1. Download the code
