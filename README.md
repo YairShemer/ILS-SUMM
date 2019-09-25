@@ -13,7 +13,7 @@ git clone https://github.com/ICLR-2020-ILS-SUMM/ILS-SUMM.git
 
 ## How to run ILS-SUMM
 ```bash
-python ILS_SUMM_EXPAMLE
+python example
 ```
 ## Example
 For the [Cosmus Laundromat movie](https://www.youtube.com/watch?v=Y-rmzh0PI3c) we get the following results:
