@@ -14,9 +14,9 @@ git clone https://github.com/ICLR-2020-ILS-SUMM/ILS-SUMM.git
 python ILS_SUMM_EXPAMLE
 ```
 ## Example
-For the [Cosmus Laundromat movie](https://www.youtube.com/watch?v=Y-rmzh0PI3c) we get the following figure:
+For the [Cosmus Laundromat movie](https://www.youtube.com/watch?v=Y-rmzh0PI3c) we get the following results:
 ![](Solution_Visualization.png)
-sdfaf
+
 ![](Cosmus_Laundromat.gif)
 
 
