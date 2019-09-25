@@ -17,4 +17,6 @@ python ILS_SUMM_EXPAMLE
 For the [Cosmus Laundromat movie](https://www.youtube.com/watch?v=Y-rmzh0PI3c) we get the following figure:
 ![](Solution_Visualization.png)
 
+![](Cosmus Laundromat.gif)
+
 
