@@ -11,10 +11,14 @@ The main requirements are python 3.6 and moviepy. Please install other missing d
 ```bash
 git clone https://github.com/ICLR-2020-ILS-SUMM/ILS-SUMM.git
 ```
-2. Copy your video file and the features and durations of your video shots into the data directory. By default, the data directory contains the fetures and durations we use for the [Cosmus Laundromat movie](https://www.youtube.com/watch?v=Y-rmzh0PI3c).
+2. Copy your video file and the features and durations of your video shots into the data directory. By default, the data directory contains the fetures and durations we use for the [Cosmus Laundromat movie](https://www.youtube.com/watch?v=Y-rmzh0PI3c). To download this movie
+```bash
+cp /<yourdatadir>/{features.npy,shots_durations.npy,yourvideo.mp4} /data/
+```
 
 ## How to run ILS-SUMM
-Run demo.py
+Run demo.py with the video file name and allowed summarization ratio as arguments.  
+For example, assigning 0.1 to summ_ratio means the maximum length of the summary will be 10% of the full video length.
 ```bash
 python demo.py <video_file_name> <summ_ratio>
 ```
