@@ -11,7 +11,7 @@ The main requirements are python 3.6 and moviepy. Please install other missing d
 ```bash
 git clone https://github.com/ICLR-2020-ILS-SUMM/ILS-SUMM.git
 ```
-2. Copy your video file and the features and durations of your video shots into the data directory. By default, the data directory contains the fetures and durations we use for the [Cosmus Laundromat movie](https://www.youtube.com/watch?v=Y-rmzh0PI3c). To download this movie
+2. Copy your video file and the features and durations of your video shots into the data directory. By default, the data directory contains the fetures and durations we use for the [Cosmus Laundromat movie](https://www.youtube.com/watch?v=Y-rmzh0PI3c). 
 ```bash
 cp /<yourdatadir>/{features.npy,shots_durations.npy,yourvideo.mp4} /data/
 ```
@@ -24,7 +24,13 @@ python demo.py <video_file_name> <summ_ratio>
 ```
 ## Example
 For the [Cosmus Laundromat movie](https://www.youtube.com/watch?v=Y-rmzh0PI3c) we get the following results:
+```bash
+The achieved total distance is: 13.573437896524624  
+The selected shots are: [  2   4   8   9  11  20  24  31  39  42  45  47  53  55  56  64  72  74
+  75  77  78  79  84  85  88 102]
+```
 ![](Solution_Visualization.png)
+
 
 
 
