@@ -1,6 +1,6 @@
 # ILS-SUMM
-
-This repo contains a python implementation of the paper - "ILS-SUMM: Iterated Local Search for Unsupervised Video Summarization".
+[Note: this repo is not final. It will be updated at 26.9.2019 13:00.]
+This repo contains a python implementation of the paper - "ILS-SUMM: Iterated Local Search for Unsupervised Video Summarization" (under the review of ICLR 2020).
 
 ![](Cosmus_Laundromat.gif)  
 *A video summary ILS-SUMM generated from the [Cosmus Laundromat movie](https://www.youtube.com/watch?v=Y-rmzh0PI3c).*
