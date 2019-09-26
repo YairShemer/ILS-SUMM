@@ -27,7 +27,7 @@ For Cosmus Laundromat, we get the following results:
 The selected shots are: [  2   6   8  39  42  45  47  50  72  75  77  78  79  88 102]
 The achieved total distance is: 20.518
 ```
-To illustrate the solution, the following figure will be automatically saved in the data directory:
+To illustrate the solution, the following figure will be saved in the data directory:
 ![](data/Solution_Visualization.png)  
 The features dimension were reduced to two dimensions using PCA. The point radius is proportional to the shot duration, and blue color denotes the shots that were chosen by ILS-SUMM algorithm.
 
