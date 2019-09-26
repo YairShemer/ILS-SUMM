@@ -12,7 +12,7 @@ git clone https://github.com/ICLR-2020-ILS-SUMM/ILS-SUMM.git
 ```
 2. Copy your video file and the features and durations of the video shots into the data directory. Currently, the data directory contains the features and durations we use for the Cosmus Laundromat movie.
 ```bash
-cp /<yourdatadir>/{features.npy,shots_durations.npy,yourvideo.mp4} /data/
+cp /<yourdatadir>/{shots_features.npy,shots_durations.npy,yourvideo.mp4} /data/
 ```
 
 ## How to run ILS-SUMM
