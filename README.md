@@ -10,7 +10,7 @@ The main requirements are python 3.6 and [moviepy](https://zulko.github.io/movie
 ```bash
 git clone https://github.com/ICLR-2020-ILS-SUMM/ILS-SUMM.git
 ```
-2. Copy your video file and the features and durations of the video shots into the data directory. Currently the data directory contains the fetures and durations we use for the Cosmus Laundromat movie.
+2. Copy your video file and the features and durations of the video shots into the data directory. Currently, the data directory contains the features and durations we use for the Cosmus Laundromat movie.
 ```bash
 cp /<yourdatadir>/{features.npy,shots_durations.npy,yourvideo.mp4} /data/
 ```
@@ -22,7 +22,7 @@ For example, assigning 0.1 to summ_ratio means the maximum length of the summary
 python demo.py <video_file_name> <summ_ratio>
 ```
 ## Example
-For Cosmus Laundromat we get the following results:
+For Cosmus Laundromat, we get the following results:
 ```bash
 The selected shots are: [  2   6   8  39  42  45  47  50  72  75  77  78  79  88 102]
 The achieved total distance is: 20.518
