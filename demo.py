@@ -10,7 +10,7 @@ def demo(video_name='Cosmus_Laundromat.mp4', summ_ratio=0.1):
     VIDEO_NAME = 'Cosmos_Laundromat.mp4'
 
     # Load data:
-    X = np.load(os.path.join('data', 'features.npy'))  # Load n x d feature matrix. n - number of shots, d - feature dimension.
+    X = np.load(os.path.join('data', 'shots_features.npy'))  # Load n x d feature matrix. n - number of shots, d - feature dimension.
     C = np.load(os.path.join('data', 'shots_durations.npy'))  # Load n x 1 shots duration array (number of frames per shot).
 
     # Calculate allowed budget
