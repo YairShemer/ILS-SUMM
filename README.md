@@ -29,7 +29,7 @@ The achieved total distance is: 20.518
 ```
 To illustrate the solution, the following figure will be saved in the data directory:
 ![](data/Solution_Visualization.png)  
-The features dimension were reduced to two dimensions using PCA. The point radius is proportional to the shot duration, and blue color denotes the shots that were chosen by ILS-SUMM algorithm.
+The features dimension was reduced to two dimensions using PCA. The point radius is proportional to the shot duration, and blue color denotes the shots that were chosen by ILS-SUMM algorithm.
 
 ## Datasets
 The datasets we used in the paper can be found [here]().  
