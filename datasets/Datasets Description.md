@@ -23,9 +23,9 @@
 
 ## OSTD Features, Shots Durations and Ground Truth
 [This directory](ostd.zip) contains:
-1. Shots durations (obtianed using [Ffprob](https://pypi.org/project/ffprobe/) by [this script](gt%20auxiliary%20scripts/ffprob_shot_segmentation.py)).
+1. Shots durations (obtained   using [Ffprob](https://pypi.org/project/ffprobe/) by [this script](gt%20auxiliary%20scripts/ffprob_shot_segmentation.py)).
 2. Shots features (RGB with 32 bins, extracted by [this script](gt%20auxiliary%20scripts/extract_features.py)).
-3. Optimal selection of representative points that satisfaies the knapsack constraints (obtained by [PuLP](https://pypi.org/project/PuLP/) using [this script](gt%20auxiliary%20scripts/PuLP_for_Knapsack_Median.py)).
+3. Optimal selection of representative points that satisfies the knapsack constraints (obtained by [PuLP](https://pypi.org/project/PuLP/) using [this script](gt%20auxiliary%20scripts/PuLP_for_Knapsack_Median.py)).
 4. Optimal total distance.
 
 # SumMe for the KM task
@@ -33,10 +33,10 @@
 ## SumMe Features, Shots Durations and Ground Truth
 [This directory](summe_for_total_distance.zip) contains:
 1. Shots durations, 
-obtianed using [Kernel Temporal Segmentation (KTS)](https://github.com/pathak22/videoseg/tree/master/lib/kts) with this parameters: 
+obtained  using [Kernel Temporal Segmentation (KTS)](https://github.com/pathak22/videoseg/tree/master/lib/kts) with this parameters: 
 maxShots = 55, vmax = 1.5, lmin = 1, lmax = 300. As features for KTS we used RGB with 32 bins, extracted by [this script](gt%20auxiliary%20scripts/extract_features.py).
 2. Shots features (RGB with 32 bins, extracted by [this script](gt%20auxiliary%20scripts/extract_features.py)).
-3. Optimal selection of representative points that satisfaies the knapsack constraints (obtained by [PuLP](https://pypi.org/project/PuLP/) using [this script](gt%20auxiliary%20scripts/PuLP_for_Knapsack_Median.py)).
+3. Optimal selection of representative points that satisfies the knapsack constraints (obtained by [PuLP](https://pypi.org/project/PuLP/) using [this script](gt%20auxiliary%20scripts/PuLP_for_Knapsack_Median.py)).
 4. Optimal total distance.
 
 # TVSum for the KM task
@@ -44,10 +44,10 @@ maxShots = 55, vmax = 1.5, lmin = 1, lmax = 300. As features for KTS we used RGB
 ## TVSum Features, Shots Durations and Ground Truth
 [This directory](tvsum_for_total_distance.zip) contains:
 1. Shots durations, 
-obtianed using [Kernel Temporal Segmentation (KTS)](https://github.com/pathak22/videoseg/tree/master/lib/kts) with this parameters: 
+obtained  using [Kernel Temporal Segmentation (KTS)](https://github.com/pathak22/videoseg/tree/master/lib/kts) with this parameters: 
 maxShots = 120, vmax = 2.2, lmin = 1, lmax = 400. As features for KTS we used RGB with 32 bins, extracted by [this script](gt%20auxiliary%20scripts/extract_features.py).
 2. Shots features (RGB with 32 bins, extracted by [this script](gt%20auxiliary%20scripts/extract_features.py)).
-3. Optimal selection of representative points that satisfaies the knapsack constraints (obtained by [PuLP](https://pypi.org/project/PuLP/) using [this script](gt%20auxiliary%20scripts/PuLP_for_Knapsack_Median.py)).
+3. Optimal selection of representative points that satisfies the knapsack constraints (obtained by [PuLP](https://pypi.org/project/PuLP/) using [this script](gt%20auxiliary%20scripts/PuLP_for_Knapsack_Median.py)).
 4. Optimal total distance.
 
 
