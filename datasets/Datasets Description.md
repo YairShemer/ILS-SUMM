@@ -4,11 +4,11 @@
 
 1. [Big Buck Bunny](http://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_480p_surround-fix.avi)  
 2. [Cosmos Laundromat](https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20%281080p%29.mp4)  
-3. [Elephants Dream](http://video.blendertestbuilds.de/download.blender.org/ED/ED_1024.avi)  
+3. [Elephants Dream](https://archive.org/download/ElephantsDream/ed_1024.avi)  
 4. [Sintel](http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4)   
 5. [Tears of Steel](http://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/tears_of_steel_1080p.mov)   
 6. [Valkaama](http://www.valkaama.com/download.php?target=media/movie/Valkaama_1080_p.mkv)   
-7. [1000 Days](http://muvideo.net/video/US6eCbRfIN8/1000-tage-german-full-length-movie-with.html)   
+7. [1000 Days](http://www.mediafire.com/file/jwa35cgdmp213j3/1000_DAYS_H264_1080.mov/file)   
 8. [Boy Who Never Slept](http://www.mediafire.com/file/8cfx2e097hblar1/Boy_Who_Never_Slept_-_Remastered_Full_Movie.mp4/file)   
 9. [CH7](http://www.mediafire.com/file/3pghcs6h8lhix5x/CH7.mp4/file)   
 10. [Honey](http://www.mediafire.com/file/7ta3q6dpdh442z6/Honey-final-180k.mp4/file)   
