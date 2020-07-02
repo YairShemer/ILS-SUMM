@@ -35,5 +35,14 @@ The features dimension was reduced to two dimensions using PCA. The point radius
 The datasets we used in the paper can be found [here]().  
 A description of the datasets is [here](datasets/Datasets%20Description.md).
 
+## Citation
+```bash
+@article{shemer2019ils,
+  title={ILS-SUMM: Iterated Local Search for Unsupervised Video Summarization},
+  author={Shemer, Yair and Rotman, Daniel and Shimkin, Nahum},
+  journal={arXiv preprint arXiv:1912.03650},
+  year={2019}
+}
+```
 
 
