@@ -32,7 +32,7 @@ To illustrate the solution, the following figure will be saved in the data direc
 The features dimension was reduced to two dimensions using PCA. The point radius is proportional to the shot duration, and blue color denotes the shots that were chosen by ILS-SUMM algorithm.
 
 ## Datasets
-The datasets we used in the paper can be found [here]().  
+The datasets we used in the paper can be found [here](https://github.com/YairShemer/ILS-SUMM/tree/master/datasets).  
 A description of the datasets is [here](datasets/Datasets%20Description.md).
 
 ## Citation
