@@ -150,7 +150,7 @@ def perturbation(X, C, budget, best_curr_representative_points, M):
 def acceptance_criterion(best_curr_representative_points, best_curr_total_distance, best_exploration_representative_points, best_exploration_total_distance, criterion_type='Better'):
     if criterion_type == 'Better':
         if best_curr_total_distance < best_exploration_total_distance:
-            return best_curr_representative_points, best_exploration_total_distance
+            return best_curr_representative_points, best_curr_total_distance
         else:
             return best_exploration_representative_points, best_exploration_total_distance
     elif criterion_type == 'RW':
