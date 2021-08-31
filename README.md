@@ -37,11 +37,12 @@ A description of the datasets is [here](datasets/Datasets%20Description.md).
 
 ## Citation
 ```bash
-@article{shemer2019ils,
-  title={ILS-SUMM: Iterated Local Search for Unsupervised Video Summarization},
-  author={Shemer, Yair and Rotman, Daniel and Shimkin, Nahum},
-  journal={arXiv preprint arXiv:1912.03650},
-  year={2019}
+@article{shemer2020ils,
+  title = {{ILS}-{SUMM}: Iterated Local Search for Unsupervised Video Summarization},
+  author = {Yair Shemer and Daniel Rotman and Nahum Shimkin},  
+  booktitle = {2020 25th International Conference on Pattern Recognition ({ICPR})}  
+  pages={1259--1266},  
+  year = 2020,  
 }
 ```
 
