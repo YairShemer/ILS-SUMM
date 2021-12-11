@@ -1,5 +1,5 @@
 # ILS-SUMM
-This repo contains a python implementation of the paper - [ILS-SUMM: Iterated Local Search for Unsupervised Video Summarization](https://arxiv.org/abs/1912.03650) (ICPR 2020 paper).
+A python implementation of the paper - [ILS-SUMM: Iterated Local Search for Unsupervised Video Summarization](https://arxiv.org/abs/1912.03650) (ICPR 2020 paper).
 The main requirements are python 3.6 and [moviepy](https://zulko.github.io/moviepy/install.html). Please install other missing dependencies.
 
 [![](Cosmus_Laundromat.gif)](https://github.com/ICLR-2020-ILS-SUMM/ILS-SUMM/blob/master/data/video_summary.mp4?raw=true)  
